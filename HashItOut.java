@@ -54,7 +54,7 @@ Output:
 
 package professorBoolean;
 
-public class Hash {
+public class HashItOut {
 	public static void main(String[] args) {
 
 		int[] digest = {0, 129, 3, 129, 7, 129, 3, 129, 15, 129, 3, 129, 7, 129, 3, 129};
