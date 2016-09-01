@@ -41,7 +41,7 @@ Output:
 
 package professorBoolean;
 
-public class Train {
+public class MaximumEquality {
 
 	public static void main(String[] args) {
 		int[] x = {1,4,7};
