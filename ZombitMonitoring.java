@@ -32,7 +32,7 @@ package professorBoolean;
 
 import java.util.Arrays;
 
-public class Zombit {
+public class ZombitMonitoring {
 
 	public static void main(String[] args) {
 		int[][] intervals = {{3, 6},{4, 5}, {3, 3},{3, 6},{1, 3}, {3, 3},{3, 6},{1, 3}, {3, 3}};
